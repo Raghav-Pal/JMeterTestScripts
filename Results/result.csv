@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1546685581097,647,HTTP Request A,200,OK,Thread Group 1-1,text,true,,979,129,6,6,https://reqres.in/api/users?page=2,647,0,560
+1546685581282,533,HTTP Request A,200,OK,Thread Group 1-3,text,true,,979,129,6,6,https://reqres.in/api/users?page=2,533,0,380
+1546685581428,389,HTTP Request A,200,OK,Thread Group 1-4,text,true,,979,129,6,6,https://reqres.in/api/users?page=2,389,0,235
+1546685581132,685,HTTP Request A,200,OK,Thread Group 1-2,text,true,,979,129,6,6,https://reqres.in/api/users?page=2,685,0,529
+1546685581581,262,HTTP Request A,200,OK,Thread Group 1-5,text,true,,979,129,6,6,https://reqres.in/api/users?page=2,262,0,80
+1546685581703,175,HTTP Request A,200,OK,Thread Group 1-6,text,true,,979,129,7,7,https://reqres.in/api/users?page=2,175,0,16
+1546685581817,85,HTTP Request B,200,OK,Thread Group 1-2,text,true,,979,129,7,7,https://reqres.in/api/users?page=2,85,0,0
+1546685581749,158,HTTP Request B,200,OK,Thread Group 1-1,text,true,,979,129,6,6,https://reqres.in/api/users?page=2,157,0,0
+1546685581843,77,HTTP Request B,200,OK,Thread Group 1-5,text,true,,979,129,5,5,https://reqres.in/api/users?page=2,77,0,0
+1546685581818,146,HTTP Request B,200,OK,Thread Group 1-4,text,true,,979,129,4,4,https://reqres.in/api/users?page=2,146,0,0
+1546685581816,161,HTTP Request B,200,OK,Thread Group 1-3,text,true,,979,129,3,3,https://reqres.in/api/users?page=2,161,0,0
+1546685581878,149,HTTP Request B,200,OK,Thread Group 1-6,text,true,,979,129,2,2,https://reqres.in/api/users?page=2,149,0,0
+1546685581857,176,HTTP Request A,200,OK,Thread Group 1-7,text,true,,979,129,1,1,https://reqres.in/api/users?page=2,176,0,18
+1546685582034,147,HTTP Request B,200,OK,Thread Group 1-7,text,true,,979,129,1,1,https://reqres.in/api/users?page=2,147,0,0

@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1546685022729,702,HTTP Request A,200,OK,Thread Group 1-1,text,true,,979,129,1,1,https://reqres.in/api/users?page=2,702,0,527
+1546685023433,163,HTTP Request B,200,OK,Thread Group 1-1,text,true,,979,129,1,1,https://reqres.in/api/users?page=2,163,0,0
